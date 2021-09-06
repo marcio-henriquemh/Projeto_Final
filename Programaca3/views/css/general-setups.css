@@ -1,0 +1,7 @@
+ 
+:root {
+    --font-primary-default: 'Poppins', sans-serif;
+    --border-radius-default: 10px;
+    --loading-default: loadingDevcontent 3s infinite;
+}
+
